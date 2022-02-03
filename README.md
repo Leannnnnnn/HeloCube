@@ -3,6 +3,8 @@
 #### 介绍
 基于esp32的桌面小电视天气站
 
+软硬件参考开源项目：[ESP32桌面小电视](https://oshwhub.com/xmz0916/esp32-desktop-tv)
+
 #### 软件架构
 软件架构说明
 
