@@ -6,19 +6,13 @@
 软硬件参考开源项目：[ESP32桌面小电视](https://oshwhub.com/xmz0916/esp32-desktop-tv)
 
 #### 软件架构
-软件架构说明
-
-
-#### 安装教程
-
-1.  x
-2.  x
-3.  x
+使用Arduino标准开发，使用开发板为ESP32 Dev Module
 
 #### 使用说明
-
-1.  xxxx
-2.  xxxx
+>项目文件说明
+> -  hardware文件夹中包含电路原理图、pcb文件、外壳3D模型
+> -  softtest文件夹中含测试例程
+> -  software文件夹中含程序代码及需加载的资源库
 
 #### 参与贡献
 
